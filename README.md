@@ -10,7 +10,7 @@ Classic version of the Snake Game, control the snake with the arrow keys and get
 
 Reporting issues is helpful but an even better approach is to send a Pull Request,
 
-[Visit amitk.co.in for More!](https://www.google.com)
+[Visit amitk.co.in for More!](https://www.amitk.co.in)
 
 Happy Coding!
 ---
