@@ -3,7 +3,8 @@
 Classic version of the Snake Game, control the snake with the arrow keys and get as much points as you can.
 
 >Source Code Release under MIT Licence
-[![License: MPL 2.0](https://img.shields.io/badge/License-MPL%202.0-brightgreen.svg)](https://opensource.org/licenses/MPL-2.0)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
 
 
 ##### Reporting Bugs & Issues
